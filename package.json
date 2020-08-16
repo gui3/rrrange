@@ -1,0 +1,29 @@
+{
+  "name": "rrrange",
+  "version": "0.0.1",
+  "description": "create range objects and work with sets theory (inclusion, overlapping, union and so on)",
+  "main": "rrrange.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gui3/rrrange.git"
+  },
+  "keywords": [
+    "range",
+    "interval",
+    "ranges",
+    "intervals",
+    "sets"
+  ],
+  "author": "gui3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gui3/rrrange/issues"
+  },
+  "homepage": "https://github.com/gui3/rrrange#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
